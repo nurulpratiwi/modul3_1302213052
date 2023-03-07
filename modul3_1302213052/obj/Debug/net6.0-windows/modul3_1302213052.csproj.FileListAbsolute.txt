@@ -1,0 +1,17 @@
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.Form1.resources
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\bin\Debug\net6.0-windows\modul3_1302213052.exe
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\bin\Debug\net6.0-windows\modul3_1302213052.deps.json
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\bin\Debug\net6.0-windows\modul3_1302213052.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\bin\Debug\net6.0-windows\modul3_1302213052.dll
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\bin\Debug\net6.0-windows\modul3_1302213052.pdb
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.dll
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\refint\modul3_1302213052.dll
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.pdb
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\modul3_1302213052.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\modul3_1302213052\modul3_1302213052\obj\Debug\net6.0-windows\ref\modul3_1302213052.dll
